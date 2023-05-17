@@ -2,8 +2,8 @@
 › Create By @RIY
 › Base Ori @DikaArdnt
 › Kalau mau tambahin fitur di index.js
-› Edit text menu di file language › help.js
-*/
+› Edit menu teks dalam bahasa file › help.js
+
 
 //gausah di apa² in!
 const fs = require('fs')
